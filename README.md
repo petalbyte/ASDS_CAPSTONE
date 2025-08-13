@@ -1,5 +1,6 @@
 # Embedding Privacy: How GDPR Transformed Corporate Privacy Discourse in S&P 500 Filings
-## Code Repository for Applied Social Data Science MSc Capstone (MY 498)
+## Code Repository for 2024/2025 Applied Social Data Science MSc Capstone (MY 498)
+## Candidate Number: 50979
 
 ---
 
