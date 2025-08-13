@@ -4,6 +4,8 @@
 
 ---
 
+## Abstract
+
 Novel text-as-data methods provide new opportunities to study the effect of legislation on corporate privacy discourse. This paper uses a word embeddings approach to study the annual 
 disclosure reports of the largest US firms. Leveraging the mandatory financial disclosure regime and publicly available data on US publicly traded companies, 
 this paper explores how the conceptualization of privacy changes in corporate communications before, during, and after the EU General Data Protection Regulation (GDPR). 
