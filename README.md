@@ -1,4 +1,4 @@
-# Embedding Privacy: How GDPR Transformed Corporate Privacy Discourse in S&P 500 Filings
+# Embedding Privacy: How GDPR Transformed Privacy Discourse in Corporate Communications
 ## Code Repository for 2024/2025 Applied Social Data Science MSc Capstone (MY 498)
 ## Candidate Number: 50979
 
